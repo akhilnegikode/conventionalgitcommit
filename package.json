@@ -1,6 +1,6 @@
 {
   "name": "conventionalgitcommit",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "repository": "https://github.com/akhnegi/conventionalgitcommit.git",
   "author": "Akhil Negi <akhnegi@deloitte.com>",

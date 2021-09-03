@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/akhnegi/conventionalgitcommit/compare/v1.1.0...v1.2.0) (2021-09-03)
+
+
+### Features
+
+* add lodash support! ([6999138](https://github.com/akhnegi/conventionalgitcommit/commit/69991384a14dcb85662897841efd96442ee4979a))
+
 ## 1.1.0 (2021-09-03)
 
 
