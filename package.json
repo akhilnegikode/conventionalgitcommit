@@ -6,6 +6,10 @@
   "author": "Akhil Negi <akhnegi@deloitte.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.1"
   }
 }
