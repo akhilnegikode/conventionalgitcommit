@@ -10,6 +10,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
+    "lodash": "^4.17.21",
     "standard-version": "^9.3.1"
   }
 }
